@@ -18,7 +18,7 @@ const Cordinator = () => {
                             </div>
                             <div className="">
                             <h3 className="text-lg  font-mono font-semibold">Satya Ranjan Dash</h3>
-                            <p className="text-sm font-mono">Associate Professor.</p>
+                            <p className="text-[15px] font-mono">Associate Professor.</p>
                             </div>                            
                         </div>
                     </div>
