@@ -103,7 +103,7 @@ export default function CustomAccordion() {
                 </p>              
             </div>
             <div className="w-full max-w-2xl mx-auto rounded-lg shadow-lg overflow-hidden bg-white mt-8">
-                <h2 className="text-2xl font-bold py-6 px-6 text-center text-gray-800 border-b border-gray-300">Rationals of student research society</h2>
+                <h2 className="text-2xl font-bold py-6 px-6 text-center text-gray-800 border-b border-gray-300">Rationale of student research society</h2>
                 <div className=''>
                     {fakeData.map((item) => (
                         <AccordionItem
