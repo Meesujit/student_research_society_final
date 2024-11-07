@@ -1,7 +1,7 @@
 import React from 'react'
 // import Home from './pages/Home'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import EventPage from './pages/Event'
+import EventPage from './pages/EventPage'
 // import ResearchPage from './pages/Research'
 import HomePage from './pages/HomePage'
 import Navbar from './components/Navbar'
