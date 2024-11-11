@@ -30,12 +30,12 @@ const Cordinator = () => {
                     <p className="text-lg font-semibold text-gray-600">
                     A computer professional, with his research interest in machine learning, deep learning with NLP, Computational Biology, and Biomedical domain. He is currently working as an associate professor at Kalinga Institute of Industrial Technology(KIIT), Deemed to be University, India. His current research includes Natural Language Processing, particularly text summarization, topic detection and classification, tree banking, dialect classification using deep learning, machine translation for low resource languages.
                     </p>
-                    <button className=" text-blue-600 hover:bg-blue-500 hover:text-white font-semibold py-2 px-4 border border-blue-600 rounded-sm inline-flex items-center transition duration-150 ease-in-out">
-                        <a href="https://www.researchgate.net/profile/Satya-Dash-3" target="_blank">Check Profile</a>
+                    {/* <button className=" text-blue-600 hover:bg-blue-500 hover:text-white font-semibold py-2 px-4 border border-blue-600 rounded-sm inline-flex items-center transition duration-150 ease-in-out"> */}
+                        <a href="https://www.researchgate.net/profile/Satya-Dash-3" target="_blank" className=" text-blue-600 hover:bg-blue-500 hover:text-white font-semibold py-2 px-4 border border-blue-600 rounded-sm inline-flex items-center transition duration-150 ease-in-out">Check Profile</a>
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                         </svg>
-                    </button>
+                    {/* </button> */}
                 </div>
             </div>
         </div>
