@@ -31,7 +31,7 @@ import {AI, ML, NLP} from '../assets/index.js'
             />
             <div className="absolute w-full h-full inset-0 bg-slate-800 bg-opacity-50 flex flex-col gap-4 items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 p-8 cursor-pointer">
               <h3 className="text-white text-2xl font-bold">{service.title}</h3>
-              <p className='text-white text-lg'>{service.content}</p>
+              <p className='text-white text-sm'>{service.content}</p>
             </div>
           </div>
         ))}
@@ -45,9 +45,9 @@ import {AI, ML, NLP} from '../assets/index.js'
           <p className="text-gray-600 mb-6 font-bold">
             connect with us to learn more about, <br /> our research groups, projects, and upcoming events.
           </p>
-          <button variant="outline" className="border-blue-500 border text-blue-500 hover:bg-blue-500 hover:text-white px-6 py-3 rounded-sm transition-all duration-300 transform hover:scale-105">
-            <a href="https://ksac.kiit.ac.in/kiit-societies" target='_blank'>OUR HISTORY</a>
-          </button>
+          {/* <button variant="outline" className="border-blue-500 border text-blue-500 hover:bg-blue-500 hover:text-white px-6 py-3 rounded-sm transition-all duration-300 transform hover:scale-105">
+            <a href="#" target='_blank'>OUR HISTORY</a>
+          </button> */}
         </div>
       </div>
     </div>

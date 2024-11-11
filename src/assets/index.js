@@ -10,6 +10,7 @@ import work from './working.png'
 import laptop from './laptop.png'
 import person from './people.png'
 import event from './event.svg'
+import coodinator from './coodinator.jpeg'
 
 export  {
     logo,
@@ -24,5 +25,6 @@ export  {
     laptop, 
     person,
     event,
+    coodinator
 }
 
