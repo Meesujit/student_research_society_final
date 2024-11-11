@@ -35,4 +35,5 @@ npm run dev
 ```
 ### Contributing
 We welcome contributions! Please create a pull request with a clear description of your changes.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba8c5a5f-898f-4b39-8c7a-b69fb718f02c/deploy-status)](https://app.netlify.com/sites/student-research-society-kiit/deploys)
 
