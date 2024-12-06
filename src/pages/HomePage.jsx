@@ -4,7 +4,7 @@ import ServicesSection from '../components/ServiceSection';
 import AboutSection from '../components/AboutSection';
 import SolarSystemEffect from '../components/SolarSystemEffect';
 import CustomAccordion from '../components/CustomAccordion';
-import  Testimonial  from '../components/Testimonial';
+// import  Testimonial  from '../components/Testimonial';
 import VisionMision from '../components/VisionMision';
 import AnimatedCarousel from '../components/AnimatedCarosule';
 import Cordinator from '../components/Cordinator';
@@ -32,7 +32,7 @@ const HomePage = () => {
         </div>
       </main>
       <ServicesSection />
-      <AboutSection />
+      {/* <AboutSection /> */}
       <SolarSystemEffect />
       <CustomAccordion />
       {/* <Testimonial /> */}
