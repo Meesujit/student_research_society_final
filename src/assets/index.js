@@ -1,4 +1,4 @@
-import logo from './logo_2.png';
+import logo from './logo_kiit.png';
 import AI from './AI.png'
 import NLP from './NLP.png'
 import ML from './ML.png'
@@ -9,6 +9,10 @@ import laptop from './laptop.png'
 import person from './people.png'
 import event from './event.svg'
 import coodinator from './coodinator.jpeg'
+import AI_card from './AI_image.svg'
+import IP from './IP.png'
+import BC from './blockchain.png'
+import WD from './web_dev.png'
 
 export  {
     logo,
@@ -21,6 +25,10 @@ export  {
     laptop, 
     person,
     event,
-    coodinator
+    coodinator,
+    AI_card,
+    IP,
+    BC,
+    WD
 }
 

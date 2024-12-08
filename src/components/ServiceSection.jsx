@@ -1,4 +1,4 @@
-import {AI, ML, NLP} from '../assets/index.js'
+import {AI, ML, NLP, IP, BC, WD} from '../assets/index.js'
 
  const  ServicesSection = () => {
   const services = [
@@ -16,6 +16,21 @@ import {AI, ML, NLP} from '../assets/index.js'
       title: "NLP",
       image: `${NLP}`,
       content: 'The NLP Research Group advances language technologies through pioneering research and practical applications like sentiment analysis and machine translation. We focus on both theoretical foundations and real-world challenges.'
+    },
+    {
+      title: "Image Processing",
+      image: `${IP}`,
+      content: 'Image processing enhances and analyzes visual data to extract meaningful information. It is widely used in healthcare for detecting diseases from scans and in AI for facial recognition and object detection. This technology powers innovations across various industries.'
+    },
+    {
+      title: "Blockchain",
+      image: `${BC}`,
+      content: 'Blockchain is a decentralized digital ledger that securely records transactions across a network of computers. Its transparent and tamper-proof nature ensures trust without the need for intermediaries, making it a cornerstone of cryptocurrencies like Bitcoin.'
+    },
+    {
+      title: "Web Development",
+      image: `${WD}`,
+      content: 'Web development is the process of building and maintaining websites, combining design, coding, and functionality. It includes front-end development for user interfaces and back-end development for server-side logic.'
     },
   ]
 
