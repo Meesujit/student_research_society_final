@@ -1,10 +1,8 @@
 // HomePage.js
 import React from 'react';
 import ServicesSection from '../components/ServiceSection';
-import AboutSection from '../components/AboutSection';
 import SolarSystemEffect from '../components/SolarSystemEffect';
 import CustomAccordion from '../components/CustomAccordion';
-// import  Testimonial  from '../components/Testimonial';
 import VisionMision from '../components/VisionMision';
 import AnimatedCarousel from '../components/AnimatedCarosule';
 import Cordinator from '../components/Cordinator';
@@ -19,12 +17,14 @@ const HomePage = () => {
         <div className="mt-[rem] relative">
           {/* <p>KODESPHERE Logo ( TODO: Image to be insert )</p> */}
           <h3 className="text-4xl font-semibold mb-6 text-blue-600 ">
-            KODESPHERE
+            KNOWVATE
           </h3>
           <h3 className="text-lg font-semibold mb-6 text-blue-600">
+
           Empowering Idea, Innovation and Impact
           </h3>
           <p className="text-lg mb-8 max-w-3xl mx-auto font-light text-gray-600">
+            Student Research Society <br />
             Where Ideas Thrive, Innovation Ignites, and Impact Reshapes the Future.
           </p>
           {/* <button className="border-blue-500 border text-blue-500 hover:bg-blue-500 hover:text-white px-6 py-3 rounded-sm transition-all duration-300 transform hover:scale-105"> */}
