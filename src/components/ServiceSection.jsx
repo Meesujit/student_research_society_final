@@ -35,7 +35,7 @@ import {AI, ML, NLP, IP, BC, WD} from '../assets/index.js'
   ]
 
   return (
-    <div className="container mx-auto my-10 px-4 py-16 w-10/12 font-mono">
+    <div className="container mx-auto my-10 px-4 py-16 w-10/12 font-mono" id='about'>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16 mt-[6.1rem]">
         {services.map((service, index) => (
           <div key={index} className="relative overflow-hidden rounded-sm group h-full w-full px-12 py-12 border">

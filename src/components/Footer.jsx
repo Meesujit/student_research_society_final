@@ -11,7 +11,7 @@
           <div>
             <h2 className="text-sm font-semibold text-gray-700 uppercase mb-4">Research Group</h2>
             <ul className="space-y-2">
-              {['Artifical Intelligence', 'Machine Learning', 'Speech Proccessing', 'Natural Language Processing', 'Quantum Computing'].map((item) => (
+              {['Artifical Intelligence', 'Machine Learning', 'Speech Proccessing', 'Natural Language Processing', 'Blockchain', 'Web Development', 'Image Processing'].map((item) => (
                 <li key={item} className="text-gray-500 hover:text-gray-700 transition-colors duration-200 cursor-pointer">
                   {/* <a href="" className="text-gray-500 hover:text-gray-700 transition-colors duration-200"> */}
                     {item}
@@ -23,7 +23,7 @@
           <div>
             <h2 className="text-sm font-semibold text-gray-700 uppercase mb-4">SRS TEAM</h2>
             <ul className="space-y-2">
-              {['Management'].map((item) => (
+              {['Student Council'].map((item) => (
                 <li key={item}>
                   <a href="#" className="text-gray-500 hover:text-gray-700 transition-colors duration-200">
                     {item}
@@ -35,7 +35,7 @@
           <div>
             <h2 className="text-sm font-semibold text-gray-700 uppercase mb-4">Contact</h2>
             <ul className="space-y-2">
-              {['About KIIT', 'Kalinga Institute of Industrial Technology (KIIT)', 'Patia, Bhubaneswar, Odisha, India 751024', 'kiit@kiit.ac.in', '0674 2725113'].map((item) => (
+              {['Dr. Satya Ranjan Dash. (Associate Professor & Dean)', 'School of Computer Applications (KIT-DU)', 'sdashfca@kiit.ac.in'].map((item) => (
                 <li key={item}>
                   <a href="#" className="text-gray-500 hover:text-gray-700 transition-colors duration-200">
                     {item}
