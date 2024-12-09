@@ -28,7 +28,7 @@ const Cordinator = () => {
                     Co-ordinator
                     </h1>
                     <p className="text-lg font-semibold text-gray-600">
-                    A computer professional, with his research interest in machine learning, deep learning with NLP, Computational Biology, and Biomedical domain. He is currently working as an associate professor at Kalinga Institute of Industrial Technology(KIIT), Deemed to be University, India. His current research includes Natural Language Processing, particularly text summarization, topic detection and classification, tree banking, dialect classification using deep learning, machine translation for low resource languages.
+                    A computer professional, with his research interest in machine learning, deep learning with NLP, Computational Biology, and Biomedical domain. He is currently working as an Associate Professor and Dean in School of Computer Applications at Kalinga Institute of Industrial Technology(KIIT), Deemed to be University, India.
                     </p>
                     {/* <button className=" text-blue-600 hover:bg-blue-500 hover:text-white font-semibold py-2 px-4 border border-blue-600 rounded-sm inline-flex items-center transition duration-150 ease-in-out"> */}
                         <a href="https://www.researchgate.net/profile/Satya-Dash-3" target="_blank" className=" text-blue-600 hover:bg-blue-500 hover:text-white font-semibold py-2 px-4 border border-blue-600 rounded-sm inline-flex items-center transition duration-150 ease-in-out">
